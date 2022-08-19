@@ -1,3 +1,5 @@
+@import url(fonts.css);
+
 html, body { margin: 0; padding: 0; height: 100%; }
 
 html { font-size: 10px; }
@@ -18,7 +20,7 @@ header {
 	height: 40%;
 	color: white;
 	background-color: black;
-	font-family: monospace;
+	font-family: HeaderFont;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -28,8 +30,7 @@ header {
 
 nav {
 	height: 60%;
-	font-family: monospace;
-	font-style: italic;
+	font-family: NavFont;
 	font-size: 5rem;
 }
 

@@ -1,0 +1,9 @@
+@font-face {
+	font-family: HeaderFont;
+	src: url(../static/SpaceMono-Bold.ttf);
+}
+
+@font-face {
+	font-family: NavFont;
+	src: url(../static/SpaceMono-Regular.ttf);
+}
